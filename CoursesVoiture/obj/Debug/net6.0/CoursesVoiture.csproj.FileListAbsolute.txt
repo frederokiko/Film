@@ -1,0 +1,30 @@
+C:\Users\f.renaux\source\repos\CoursesVoiture\bin\Debug\net6.0\CoursesVoiture.exe
+C:\Users\f.renaux\source\repos\CoursesVoiture\bin\Debug\net6.0\CoursesVoiture.deps.json
+C:\Users\f.renaux\source\repos\CoursesVoiture\bin\Debug\net6.0\CoursesVoiture.runtimeconfig.json
+C:\Users\f.renaux\source\repos\CoursesVoiture\bin\Debug\net6.0\CoursesVoiture.dll
+C:\Users\f.renaux\source\repos\CoursesVoiture\bin\Debug\net6.0\CoursesVoiture.pdb
+C:\Users\f.renaux\source\repos\CoursesVoiture\obj\Debug\net6.0\CoursesVoiture.csproj.AssemblyReference.cache
+C:\Users\f.renaux\source\repos\CoursesVoiture\obj\Debug\net6.0\CoursesVoiture.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\f.renaux\source\repos\CoursesVoiture\obj\Debug\net6.0\CoursesVoiture.AssemblyInfoInputs.cache
+C:\Users\f.renaux\source\repos\CoursesVoiture\obj\Debug\net6.0\CoursesVoiture.AssemblyInfo.cs
+C:\Users\f.renaux\source\repos\CoursesVoiture\obj\Debug\net6.0\CoursesVoiture.csproj.CoreCompileInputs.cache
+C:\Users\f.renaux\source\repos\CoursesVoiture\obj\Debug\net6.0\CoursesVoiture.dll
+C:\Users\f.renaux\source\repos\CoursesVoiture\obj\Debug\net6.0\refint\CoursesVoiture.dll
+C:\Users\f.renaux\source\repos\CoursesVoiture\obj\Debug\net6.0\CoursesVoiture.pdb
+C:\Users\f.renaux\source\repos\CoursesVoiture\obj\Debug\net6.0\CoursesVoiture.genruntimeconfig.cache
+C:\Users\f.renaux\source\repos\CoursesVoiture\obj\Debug\net6.0\ref\CoursesVoiture.dll
+C:\Users\frede\Desktop\projet labo course\.vs\CoursesVoiture\bin\Debug\net6.0\CoursesVoiture.exe
+C:\Users\frede\Desktop\projet labo course\.vs\CoursesVoiture\bin\Debug\net6.0\CoursesVoiture.deps.json
+C:\Users\frede\Desktop\projet labo course\.vs\CoursesVoiture\bin\Debug\net6.0\CoursesVoiture.runtimeconfig.json
+C:\Users\frede\Desktop\projet labo course\.vs\CoursesVoiture\bin\Debug\net6.0\CoursesVoiture.dll
+C:\Users\frede\Desktop\projet labo course\.vs\CoursesVoiture\bin\Debug\net6.0\CoursesVoiture.pdb
+C:\Users\frede\Desktop\projet labo course\.vs\CoursesVoiture\obj\Debug\net6.0\CoursesVoiture.csproj.AssemblyReference.cache
+C:\Users\frede\Desktop\projet labo course\.vs\CoursesVoiture\obj\Debug\net6.0\CoursesVoiture.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\frede\Desktop\projet labo course\.vs\CoursesVoiture\obj\Debug\net6.0\CoursesVoiture.AssemblyInfoInputs.cache
+C:\Users\frede\Desktop\projet labo course\.vs\CoursesVoiture\obj\Debug\net6.0\CoursesVoiture.AssemblyInfo.cs
+C:\Users\frede\Desktop\projet labo course\.vs\CoursesVoiture\obj\Debug\net6.0\CoursesVoiture.csproj.CoreCompileInputs.cache
+C:\Users\frede\Desktop\projet labo course\.vs\CoursesVoiture\obj\Debug\net6.0\CoursesVoiture.dll
+C:\Users\frede\Desktop\projet labo course\.vs\CoursesVoiture\obj\Debug\net6.0\refint\CoursesVoiture.dll
+C:\Users\frede\Desktop\projet labo course\.vs\CoursesVoiture\obj\Debug\net6.0\CoursesVoiture.pdb
+C:\Users\frede\Desktop\projet labo course\.vs\CoursesVoiture\obj\Debug\net6.0\CoursesVoiture.genruntimeconfig.cache
+C:\Users\frede\Desktop\projet labo course\.vs\CoursesVoiture\obj\Debug\net6.0\ref\CoursesVoiture.dll
